@@ -1,0 +1,12 @@
+>> sample_folder 	 		{SHA-of-PARENT: 742f71bbf9e07e749cd89c65fca90e34}
+---->> folder3 	 			{SHA-of-PARENT: 945b34777c7444e9352d9393b2162d16}
+-------->> grandchild2.txt 	 	{SHA-of-PARENT: 3697775a8b7cbbf6401f8b2bd93a0f76, SHA-of-DATA: 86d71682378ad38118601effd589526b}
+-------->> grandchild1.txt 	 	{SHA-of-PARENT: a04c79b3d9224512e48d67a44f4d68c4, SHA-of-DATA: cdee1a45e733b950e01ac75a4bd768bd}
+---->> child2.txt 	 		{SHA-of-PARENT: 66810be9c7fc0a541bac93ecefbcea4f, SHA-of-DATA: 7533b23c8dec7e6d244ae476e1146a5f}
+---->> child1.txt 	 		{SHA-of-PARENT: e446917b26e3a3643aa147adfde7b787, SHA-of-DATA: c4ab1505e17a436af78cef94bd2abebb}
+---->> folder1 	 			{SHA-of-PARENT: bf58683ef8aa86eac6a5ce63e1e4ae9d}
+-------->> grandchild2.txt 	 	{SHA-of-PARENT: 3697775a8b7cbbf6401f8b2bd93a0f76, SHA-of-DATA: 86d71682378ad38118601effd589526b}
+-------->> grandchild1.txt 	 	{SHA-of-PARENT: a04c79b3d9224512e48d67a44f4d68c4, SHA-of-DATA: cdee1a45e733b950e01ac75a4bd768bd}
+---->> folder2 	 			{SHA-of-PARENT: 6a99dd4cae7965054ad1a935c12e6df1}
+-------->> empty_folder2 	 	{SHA-of-PARENT: 98173b6e0d7e4574c21881640b1c7984}
+-------->> empty_folder1 	 	{SHA-of-PARENT: f0fc295fa8ef27fb56ae193808925a89}

@@ -1,0 +1,15 @@
+The tree for an empty folder must return a blank dictionary in place of data ... ok
+The file hash must be the hash of the filename hash followed by file data hash ... ok
+The hash of a child must feature in the hash list of it's parents children ... ok
+MD5 hash calculation must work correctly ... ok
+Merkle Tree must not be generated if MerkleTree class is initialized without any arguments ... ok
+Merkle Tree must be generated on current directory if generate_tree is called without arguments ... ok
+Merkle Tree must be generated if MerkleTree class is initialized with a path ... ok
+Merkle tree generated for a given folder must be the same irrespective of how the tree is generated ... ok
+Slurp file must work correctly ... ok
+Parent hash must be calculated on the sorted hash string of its children ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.031s
+
+OK
